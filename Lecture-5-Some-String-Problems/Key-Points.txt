@@ -1,0 +1,17 @@
+Some points to keep in mind while solving questions on data
+structures and algorithms
+
+1. Write clean and efficient code with proper type checking
+of arguments like we saw in our previous videos.
+
+2. Names of variables should be descriptive. Your code is
+to be read by humans so it should speak for itself and
+should be self-explanatory.
+
+3. Feel free to implement in any language you want
+it is the logic that matters and not the language.
+Problem Solving is an art :)
+
+
+
+
